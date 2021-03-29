@@ -1,0 +1,3 @@
+This program is written in Batch and Javascript HTML.
+------------Version------------
+Indev 0.0.2, Released 1:58 PM 3/29/2021 by Bloatoom.
